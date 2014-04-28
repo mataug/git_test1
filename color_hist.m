@@ -1,6 +1,5 @@
 function [ desc ] = color_hist( im, mask, numBins, varargin )
 %COLOR_HIST Summary of this function goes here
-%   Detailed explanation goes here
 
 desc = [];
 % numBins = 8;
